@@ -1,0 +1,1 @@
+This project deals with color transfer as seen in an optimal transfer context. This sort of computation has been used in domains like cinemas and photography in order to smooth and harmonize colors between images
